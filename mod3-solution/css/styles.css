@@ -1,7 +1,7 @@
 body {
 	background-color: #5CDB95;
 	font-family: 'Comic Neue', cursive;
-	font-size: 16px;
+	font-size: 20px;
 }
 /*Header part*/
 #header-nav {
@@ -10,7 +10,6 @@ body {
 	border: 0;
 }
 .navbar-brand h1 {
-	font-size: 1.5em;
 	font-weight: bold;
 	text-shadow: 1px 1px 1px #222;
 	margin-top: 0;
@@ -32,11 +31,13 @@ body {
 	border: 3px solid black;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 15px;
 }
 .paraheading {
 	border-bottom: 3px solid black;
 	text-align: center;
 	font-size: 2em;
+	font-weight: bold;
 }
 .contentotxt {
 	margin: 10px;
